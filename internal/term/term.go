@@ -4,7 +4,6 @@ package term
 
 import (
 	"sync"
-	"syscall"
 
 	"github.com/pkg/term/termios"
 	"golang.org/x/sys/unix"
